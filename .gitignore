@@ -76,3 +76,9 @@ experiments*
 cache*
 .virtual_documents*
 *.csv
+
+# Colbert project
+ColBERT/
+
+# server output
+nohup.out
