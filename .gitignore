@@ -75,3 +75,4 @@ ColBERT*
 experiments*
 cache*
 .virtual_documents*
+*.csv
