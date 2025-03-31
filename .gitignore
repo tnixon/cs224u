@@ -76,6 +76,7 @@ experiments*
 cache*
 .virtual_documents*
 *.csv
+*.json
 
 # Colbert project
 ColBERT/
