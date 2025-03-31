@@ -13,7 +13,8 @@ torch==2.6.0; sys_platform != "linux" and sys_platform != "win32"
 # torch==2.6.0+${DEVICE}; sys_platform == "linux" or sys_platform == "win32"
 # torchvision
 # torchaudio
-transformers>=4.37
+# transformers>=4.37
+transformers==4.48
 datasets>=2.14.6
 spacy>=3.7.2
 colbert-ai>=0.2.20
