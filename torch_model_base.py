@@ -153,6 +153,7 @@ class TorchModelBase:
                 device = "mps"
             else:
                 device = "cpu"
+        print(f"setting up torch device {device}")
         self.device = torch.device(device)
         self.display_progress = display_progress
         self.optimizer_kwargs = optimizer_kwargs

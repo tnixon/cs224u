@@ -80,6 +80,7 @@ cache*
 .virtual_documents*
 *.csv
 *.json
+*.tsv
 
 # Colbert project
 ColBERT/
